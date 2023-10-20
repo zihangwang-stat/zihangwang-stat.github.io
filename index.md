@@ -10,12 +10,13 @@ layout: homepage
 
 I'm a third-year Ph.D. student in the [Department of Biostatistics and Bioinformatics](https://sph.emory.edu/departments/bios/index.html) at [Emory University](https://www.emory.edu/home/index.html) working with Professor [Benjamin B. Risk](https://github.com/thebrisklab). Prior to Emory, I received my master's degree in Statistics from [University of Wisconsin-Madison](https://www.wisc.edu/), where I was very fortunate to be supervised by Professor [Qiongshi Lu](https://qlu-lab.org/people.html). I received my bachelor's degree in Statistics from [Nankai University](https://en.nankai.edu.cn/) in China. My research interests center around developing statistical methods and computational tools to analyze complex biomedical (neuroimaging/genetics) data.
 
-
+<!--
 ## Research Interests
 
 - **Neuroimaging Statistics:** multivariate analysis, imaging causal inference, brain connectivity analysis, motion correction.
 - **Causal Inference:** longitudinal causal inference, quantile treatment effect, high-dimensional mediation, targeted machine learning.
 - **Statistical Genetics:** multi-trait modeling, genetic nurture, imaging genetics.
+-->
 
 ## News
 
