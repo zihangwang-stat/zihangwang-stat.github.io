@@ -1,0 +1,48 @@
+# Basic Information 
+title: Zihang Wang
+position: Ph.D. Student in Biostatistics
+affiliation: Department of Biostatistics and Bioinfomatics, Emory University
+affiliation_link: https://sph.emory.edu/departments/bios/index.html
+email: zihang.wang (at) emory.edu
+
+# Search Engine Optimization (SEO)
+# keywords: yingying li
+# canonical: https://yingying.li/
+# description: Yingying Li is an assistant professor in the Department of Industrial and Enterprise Systems Engineering (ISE) at UIUC. 
+
+# The option is used to enable the Johns Hopkins template.
+enable_hopkins_logo: true
+
+# The option is used to show the last update time.
+enable_last_update: false
+
+# Links
+# If you don't need one of them, you may delete the corresponding line.
+#google_scholar: https://scholar.google.com/
+#cv_link: assets/files/curriculum_vitae.pdf
+github_link: https://github.com/zwang2333
+linkedin: https://www.linkedin.com/in/zihangwang0378/
+twitter: https://twitter.com/wzh_stat
+
+# Images 
+avatar: ./images/wzh.jpg
+favicon: ./images/hang.gif
+favicon_dark: ./images/favicon.ico
+
+# Footnotes
+footnote: Feel free to use my website's source code.
+footnote_link: https://github.com/yaoyao-liu/minimal-light
+
+# Analytics
+# Please remove the following lines about analytics services if you fork my project. 
+# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
+# clustrmaps_id: 0BV5WWkvubBh6O72_ES-0aHY-MlDJXUC2LUHQid3A4A
+
+# The following files will be removed from the generated website.
+exclude:
+  - build.sh
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME
