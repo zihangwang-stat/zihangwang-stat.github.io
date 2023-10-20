@@ -1,0 +1,14 @@
+main:
+
+  - title: "Misc"
+    url: ./misc.html  
+    right: true 
+
+  - title: "Teaching"
+    url: ./teaching.html  
+
+  - title: "Research"
+    url: ./research.html
+
+  - title: "Home"
+    url: ./index.html

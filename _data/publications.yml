@@ -1,0 +1,32 @@
+main:
+
+  - title: Sparse Independent Component Analysis with an Application to Cortical Surface fMRI Data in Autism.
+    authors: <strong>Wang Z.</strong>, Gaynanova I., Aravkin A., Risk B. B.
+    conference_short: Submitted
+    conference: Submitted, 2023+.
+    image: ./images/sparseICA.png
+
+  - title: GWAS on birth year infant mortality rates provides evidence of recent natural selection.
+    authors: Wu Y., Furuya S., <strong>Wang Z.</strong>, Nobles J., Fletcher J.†, Lu Q.†
+    conference_short: PNAS
+    conference: Proceedings of the National Academy of Sciences <strong>(PNAS)</strong>, 2022.
+    pdf: https://www.pnas.org/doi/10.1073/pnas.2117312119
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:yzXzrueLw20J:scholar.google.com/&output=citation&scisdr=ClEeyrPxEIX0j286L-0:AFWwaeYAAAAAZPE8N-2m37yiIVItsSz3fEkF-KM&scisig=AFWwaeYAAAAAZPE8N47Qb4mDRxq7OKdKrhD81c8&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./images/pnas.png
+    notes: Accompanying commentary article
+
+  - title: "Research domain criteria (RDoC) mechanisms of transdiagnostic polygenic risk for trajectories of depression: from early adolescence to adulthood."
+    authors: Li J., Zhang Q., <strong>Wang Z.</strong>, Lu Q.
+    conference_short: JPCS
+    conference: Journal of Psychopathology and Clinical Science, 2022.
+    pdf: https://doi.org/10.1037/abn0000659
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:7pJsldVflbgJ:scholar.google.com/&output=citation&scisdr=ClEa5Y8PEOWwkVAfoPM:AFWwaeYAAAAAZPIZuPN052vp9XWjN7pIMyY4Ax0&scisig=AFWwaeYAAAAAZPIZuFbWj1Div-3vT6AiH9GM7Zs&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./images/RDoC.png
+
+  - title: "Enhancing the discriminatory power of ADHD and autism spectrum disorder polygenic scores in clinical and non-clinical samples."
+    authors: Li J., He Q., <strong>Wang Z.</strong>, Lu Q.
+    conference_short: medRxiv
+    conference: Submitted (preprint available on medRxiv), 2022.
+    pdf: https://www.medrxiv.org/content/10.1101/2022.02.09.22270697v1
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:RkrErvVBWS0J:scholar.google.com/&output=citation&scisdr=ClEa5Y8PEOWwkVAdMZY:AFWwaeYAAAAAZPIbKZbWiEGrg31EHsHm8CSALa4&scisig=AFWwaeYAAAAAZPIbKU6H-E5ijdH0tKnW4UoMWhw&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./images/enhancing.png
