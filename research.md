@@ -9,9 +9,9 @@ title: Publications
 
 ## Research Interests
 
-- **Neuroimaging Statistics:** multivariate analysis, imaging causal inference, brain connectivity analysis, motion correction.
-- **Causal Inference:** longitudinal causal inference, quantile treatment effect, high-dimensional mediation, semiparametric inference, targeted machine learning.
-- **Statistical Genetics:** multi-trait modeling, Mendelian randomization, genetic nurture.
+- **Neuroimaging Statistics:** multivariate analysis, imaging causal inference, brain network analysis.
+- **Causal Inference:** targeted machine learning, longitudinal causal inference, quantile treatment effect.
+- **Statistical Genetics:** multi-trait modeling, genetic nurture, polygenic risk score prediction.
 
 {% include_relative _includes/publications.md %}
 
